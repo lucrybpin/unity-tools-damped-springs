@@ -37,10 +37,8 @@ _camera.fieldOfView.SpringToAsync(targetFOV, fov => _camera.fieldOfView = fov, f
 
 You can install this package directly via the Unity Package Manager using the Git URL:
 
-1. Open `Window` -> `Package Manager` in Unity.
-2. Click the `+` button in the top-left corner.
-3. Select `Add package from git URL...`.
-4. Paste the following URL: `https://github.com/lucspinto/com.ponderado.springtween.git` *(Ajuste com a URL real do seu repositório)*
+1. Download DampedSpringExtensions.unitypackage
+2. Import thje Package into your project and use it
 
 ---
 
